@@ -17,11 +17,11 @@ Esta es una simple aplicación Android, que lee datos de usuarios de una base de
 <h3>Capturas de pantalla:</h3>
 
 <div class="row">
-      <img src="https://media-exp1.licdn.com/dms/image/C4E22AQFYxDIZorQquw/feedshare-shrink_1280/0/1636392945516?e=1639008000&v=beta&t=GM2kh5d_CrOVJRcRcQdFTs0K7v0AIZBeBHIkXH0Dxfk" width="250">
-      <img src="https://media-exp1.licdn.com/dms/image/C4E22AQH_r-MzdEEwoQ/feedshare-shrink_1280/0/1636392945136?e=1639008000&v=beta&t=mYlzRVJQYFFLFDLUeHcjvOjfgrsO6_hW_kXBfGEPFHI" width="250">     
+      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg-kBOOIE-Q3idp_H2Gc1ZJ42fu4E87YiUiyuu1fRBeRz1x7OZ19zBtpVwtwGsyPynuoOCK7EkUceGYzQ08F6cwaEBY1pWXI3EQmXpH28ajP-wgKgRK2sqsnLmBC_BIe-00V_roudwatzLrwQHW23qGm_5Apfcnry5uXyD8nKnIyAaI2zE8gv07lzoO=s16000" width="250">
+      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiwhRQSEihy7RI66x8N7fQ0O9TGBO9FNtQMKx8mP_YKVuqtQ_worLmH8ekwrGR_L5qeUBUx3ZfqxTfGBTmy6dNEhfpxZTWsVTth6cARJd7s_3fQ5ny5RHugEfFIIdgMXjke4B-8bJ2D0qLS_q8SL2RTzsXM8o_bwlVD0vn06hEE7qO8W1-2lvoxTAv9=s16000" width="250">     
 </div>
 
 <div class="row">
-      <img src="https://media-exp1.licdn.com/dms/image/C4E22AQEN-uVEGWuQLg/feedshare-shrink_1280/0/1636392945289?e=1639008000&v=beta&t=ENkoyIX0zBzvkjVD_2D7pXV6Skq2StTlU1w5z3xx7K8" width="250">
-      <img src="https://media-exp1.licdn.com/dms/image/C4E22AQFLjdLzuAJwag/feedshare-shrink_1280/0/1636392945172?e=1639008000&v=beta&t=tnQz1Fpiy9xsg0-SEO3-hKMsCGc9ZTMrKJcFV9dx3sM" width="250">  
+      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiOSHRezEmHnqKTHNVxYbarIW08mlZTlCCdxWYJi8wU1fDrpgWWawa7qHIdD8lz5OmZ0yJZwkGaT3W548x7x-cRG-ue5toxLIvJiOz-PrfTyR0wJzwFBFufpiUL7nOSfe_f0YeoQt5UuMLKwo5r9ZKCD2KBwMyDOEnqkfIkMoM-GG1jkET4eHbrmJKi=s16000" width="250">
+      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh3aA54C6rrqbRFLyHMPHjuuEDUzkDLmv-oXXrEpiTDkqaulGKUeSUK2s1pU5tZaebkBgjee3V3A-uglCUyIthgE3JW9dH6BCkEuuGQMPVbt9AMm2Mkl_fbXOcuSMSTLfFyTT7NnB88SYexN65vBBtwVct_Lbmpc4DsrksRjKoRNUWFHz6YkV4QetUM=s16000" width="250">  
 </div>
