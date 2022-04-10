@@ -17,11 +17,11 @@ Esta es una simple aplicación Android, que lee datos de usuarios de una base de
 <h3>Capturas de pantalla:</h3>
 
 <div class="row">
-      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg-kBOOIE-Q3idp_H2Gc1ZJ42fu4E87YiUiyuu1fRBeRz1x7OZ19zBtpVwtwGsyPynuoOCK7EkUceGYzQ08F6cwaEBY1pWXI3EQmXpH28ajP-wgKgRK2sqsnLmBC_BIe-00V_roudwatzLrwQHW23qGm_5Apfcnry5uXyD8nKnIyAaI2zE8gv07lzoO=s16000" width="250">
-      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiwhRQSEihy7RI66x8N7fQ0O9TGBO9FNtQMKx8mP_YKVuqtQ_worLmH8ekwrGR_L5qeUBUx3ZfqxTfGBTmy6dNEhfpxZTWsVTth6cARJd7s_3fQ5ny5RHugEfFIIdgMXjke4B-8bJ2D0qLS_q8SL2RTzsXM8o_bwlVD0vn06hEE7qO8W1-2lvoxTAv9=s16000" width="250">     
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGBRFh_lqfF2Q/feedshare-shrink_1280/0/1649551957586?e=2147483647&v=beta&t=cIkXmdOvZ3vXF5kUv0vNIrvrCGe8h-CpUcM9OQ-FrQE" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQHp_74Y8oJiyw/feedshare-shrink_1280/0/1649551957502?e=2147483647&v=beta&t=mGrPCJITS6lf7Ned6ZYkgbWvFZtdXbZDK0z7tJmPykI" width="250">     
 </div>
 
 <div class="row">
-      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiOSHRezEmHnqKTHNVxYbarIW08mlZTlCCdxWYJi8wU1fDrpgWWawa7qHIdD8lz5OmZ0yJZwkGaT3W548x7x-cRG-ue5toxLIvJiOz-PrfTyR0wJzwFBFufpiUL7nOSfe_f0YeoQt5UuMLKwo5r9ZKCD2KBwMyDOEnqkfIkMoM-GG1jkET4eHbrmJKi=s16000" width="250">
-      <img src="https://blogger.googleusercontent.com/img/a/AVvXsEh3aA54C6rrqbRFLyHMPHjuuEDUzkDLmv-oXXrEpiTDkqaulGKUeSUK2s1pU5tZaebkBgjee3V3A-uglCUyIthgE3JW9dH6BCkEuuGQMPVbt9AMm2Mkl_fbXOcuSMSTLfFyTT7NnB88SYexN65vBBtwVct_Lbmpc4DsrksRjKoRNUWFHz6YkV4QetUM=s16000" width="250">  
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGRfL302nMIDw/feedshare-shrink_1280/0/1649551957552?e=2147483647&v=beta&t=-02g9737P0-R5OLA0Xd63KFO0vk-X8TGtz-hQWvFFQM" width="250">
+      <img src="https://media-exp1.licdn.com/dms/image/C4D22AQGaGk2ECA_KeQ/feedshare-shrink_1280/0/1649551957462?e=2147483647&v=beta&t=yawW0SKQp-3araKtDpedJlZdNCSzfXQc9lfKxfuTgZw" width="250">  
 </div>
